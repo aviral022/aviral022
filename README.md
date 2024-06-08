@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aviral
-- 👀 I’m interested in MACHIENE LEARNING
+- 👀 I’m interested in MACHINE LEARNING
 - 🌱 I’m currently learning DATA ANALYTICS 
 - 💞️ I’m looking to collaborate on ...
 - 📫 You reach me via Linkedin
