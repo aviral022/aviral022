@@ -2,7 +2,8 @@
 - 👀 I’m interested in MACHINE LEARNING
 - 🌱 I’m currently learning DATA ANALYTICS 
 - 💞️ I’m looking to collaborate on ...
-- 📫 You reach me via Linkedin
+- 📫 You reach me via Linkedin www.linkedin.com/in/aviral-dubey-198600262 / (aviraldubey20@gmail.com)
+
 
 <!---
 aviral022/aviral022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
