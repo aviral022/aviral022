@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aviral
 - 👀 I’m interested in MACHINE LEARNING
-- 🌱 I’m currently learning DATA ANALYTICS 
+- 🌱 I’m currently learning LLM
 - 💞️ I’m looking to collaborate on ...
 - 📫 You reach me via Linkedin www.linkedin.com/in/aviral-dubey-198600262 / (aviraldubey20@gmail.com)
 
