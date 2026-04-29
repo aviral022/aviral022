@@ -1,27 +1,26 @@
 <!-- ════════════════════════════════════════════════════════════════════════ -->
-<!-- 🌊  ANIMATED HEADER                                                    -->
+<!--  ANIMATED HEADER                                                       -->
 <!-- ════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:6c63ff&height=220&section=header&text=Aviral%20Dubey&fontSize=52&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=ML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Data%20Scientist&descSize=18&descAlignY=55&descColor=a78bfa" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080b14,50:0d1117,100:6c63ff&height=220&section=header&text=Aviral%20Dubey&fontSize=52&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=ML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Data%20Scientist&descSize=18&descAlignY=55&descColor=a78bfa" />
 
 <!-- ════════════════════════════════════════════════════════════════════════ -->
-<!-- ⌨️  ANIMATED TYPING TEXT                                                -->
+<!--  ANIMATED TYPING TEXT                                                   -->
 <!-- ════════════════════════════════════════════════════════════════════════ -->
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%94%8D+In+search+of+patterns%2C+meaning+%26+intelligence;%F0%9F%A7%A0+Building+ML+models+that+make+a+difference;%F0%9F%9A%80+Turning+data+into+actionable+insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=In+search+of+patterns%2C+meaning+%26+intelligence;Building+ML+models+that+make+a+difference;Turning+data+into+actionable+insights" alt="Typing SVG" />
 </a>
 
 </div>
 
 <!-- ════════════════════════════════════════════════════════════════════════ -->
-<!-- 🔗  SOCIAL BADGES                                                      -->
+<!--  SOCIAL BADGES                                                         -->
 <!-- ════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-
 <a href="https://www.linkedin.com/in/aviral-dubey-198600262" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
@@ -45,14 +44,16 @@
 <br/>
 
 <!-- ════════════════════════════════════════════════════════════════════════ -->
-<!-- 👤  ABOUT ME                                                           -->
+<!--  ABOUT ME                                                              -->
 <!-- ════════════════════════════════════════════════════════════════════════ -->
 
 <img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF" />
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
+## About Me
 
 ```yaml
+# profile.yaml
+
 name: Aviral Dubey
 located_in: India
 current_focus: Machine Learning & LLMs
@@ -80,14 +81,15 @@ hobbies:
 <br clear="both"/>
 
 <!-- ════════════════════════════════════════════════════════════════════════ -->
-<!-- 🛠️  TECH STACK                                                         -->
+<!--  TECH STACK                                                            -->
 <!-- ════════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### 🧠 AI / ML / Data Science
+### AI / ML / Data Science
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
@@ -101,7 +103,8 @@ hobbies:
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace" />
 </p>
 
-### 🌐 Web Development
+### Web Development
+
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -113,7 +116,8 @@ hobbies:
   <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js" />
 </p>
 
-### 🔧 Tools & Platforms
+### Tools & Platforms
+
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -127,10 +131,10 @@ hobbies:
 </div>
 
 <!-- ════════════════════════════════════════════════════════════════════════ -->
-<!-- 📊  GITHUB STATS                                                       -->
+<!--  GITHUB STATS                                                          -->
 <!-- ════════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -141,14 +145,12 @@ hobbies:
 
 <br/>
 
-<!-- 🔥 Streak Stats -->
 <a href="https://github.com/aviral022">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aviral022&theme=tokyonight&hide_border=true&background=0d1117&stroke=6c63ff&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=555555" alt="GitHub Streak" />
 </a>
 
 <br/>
 
-<!-- 📈 Activity Graph -->
 <a href="https://github.com/aviral022">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=aviral022&bg_color=0d1117&color=a78bfa&line=6c63ff&point=ffffff&area_color=6c63ff&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 </a>
@@ -156,20 +158,20 @@ hobbies:
 </div>
 
 <!-- ════════════════════════════════════════════════════════════════════════ -->
-<!-- 🏆  TROPHIES                                                           -->
+<!--  TROPHIES                                                              -->
 <!-- ════════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="28"> &nbsp;Achievements
+## Achievements
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=aviral022&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
 </div>
 
 <!-- ════════════════════════════════════════════════════════════════════════ -->
-<!-- 🚀  FEATURED PROJECTS                                                  -->
+<!--  FEATURED PROJECTS                                                     -->
 <!-- ════════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> &nbsp;Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -195,10 +197,10 @@ hobbies:
 </div>
 
 <!-- ════════════════════════════════════════════════════════════════════════ -->
-<!-- 🐍  CONTRIBUTION SNAKE                                                 -->
+<!--  CONTRIBUTION SNAKE                                                    -->
 <!-- ════════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="28"> &nbsp;Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
@@ -208,28 +210,26 @@ hobbies:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aviral022/aviral022/output/github-snake-dark.svg" width="100%"/>
 </picture>
 
-> 💡 *The snake animation requires a GitHub Action to generate. See [setup instructions](#-snake-animation-setup) below.*
-
 </div>
 
 <!-- ════════════════════════════════════════════════════════════════════════ -->
-<!-- 🎵  SPOTIFY / QUOTE                                                    -->
+<!--  DEV QUOTE                                                             -->
 <!-- ════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="28"> &nbsp;Random Dev Quote
+## Random Dev Quote
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 
 </div>
 
 <!-- ════════════════════════════════════════════════════════════════════════ -->
-<!-- 🐍  SNAKE ANIMATION SETUP                                              -->
+<!--  SNAKE ANIMATION SETUP                                                 -->
 <!-- ════════════════════════════════════════════════════════════════════════ -->
 
 <details>
-<summary><h3>🐍 Snake Animation Setup</h3></summary>
+<summary><h3>Snake Animation Setup</h3></summary>
 
 To enable the contribution snake animation, create this GitHub Action in your `aviral022` repo:
 
@@ -240,7 +240,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */6 * * *"  # Runs every 6 hours
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 jobs:
@@ -269,12 +269,12 @@ After adding this workflow, run it manually once from the **Actions** tab. The s
 </details>
 
 <!-- ════════════════════════════════════════════════════════════════════════ -->
-<!-- 🤝  CONNECT                                                            -->
+<!--  CONNECT                                                               -->
 <!-- ════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp;Let's Connect
+## Let's Connect
 
 <a href="https://www.linkedin.com/in/aviral-dubey-198600262" target="_blank">
   <img src="https://img.shields.io/badge/-Aviral_Dubey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -288,6 +288,6 @@ After adding this workflow, run it manually once from the **Actions** tab. The s
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:6c63ff&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080b14,50:0d1117,100:6c63ff&height=120&section=footer" width="100%" />
 
 </div>
