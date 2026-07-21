@@ -4,14 +4,14 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080b14,50:0d1117,100:6c63ff&height=220&section=header&text=Aviral%20Dubey&fontSize=52&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=ML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Data%20Scientist&descSize=18&descAlignY=55&descColor=a78bfa" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080b14,50:0d1117,100:6c63ff&height=220&section=header&text=Aviral%20Dubey&fontSize=52&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Data%20Scientist%20%7C%20GenAI%20%26%20Marketing%20Analytics&descSize=18&descAlignY=55&descColor=a78bfa" />
 
 <!-- ════════════════════════════════════════════════════════════════════════ -->
 <!--  ANIMATED TYPING TEXT                                                   -->
 <!-- ════════════════════════════════════════════════════════════════════════ -->
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=In+search+of+patterns%2C+meaning+%26+intelligence;Building+ML+models+that+make+a+difference;Turning+data+into+actionable+insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Building+GenAI+applications+%26+RAG+pipelines;Measuring+what+matters+with+GTM+%2F+GA4;Turning+data+into+actionable+insights" alt="Typing SVG" />
 </a>
 
 </div>
@@ -21,7 +21,7 @@
 <!-- ════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<a href="https://www.linkedin.com/in/aviral-dubey-198600262" target="_blank">
+<a href="https://www.linkedin.com/in/aviral-dubey-ml-engineer" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:aviraldubey20@gmail.com">
@@ -55,21 +55,21 @@
 # profile.yaml
 
 name: Aviral Dubey
-located_in: India
-current_focus: Machine Learning & LLMs
-education: Data Science & AI
+located_in: Bangalore, India
+current_role: Junior Analyst Intern @ WPP Media (Choreograph)
+current_focus: Generative AI & Marketing Analytics
 
 fields_of_interest:
-  - Machine Learning
-  - Deep Learning
-  - Large Language Models
-  - Full-Stack Development
+  - Generative AI & LLM Applications
+  - Marketing Analytics (GTM, GA4)
+  - Machine Learning & Deep Learning
+  - Retrieval-Augmented Generation (RAG)
   - Data Analytics & Visualization
-  - Computer Vision
+  - Full-Stack Development
 
 currently_learning:
-  - LLM Fine-tuning & Prompt Engineering
-  - Advanced NLP Techniques
+  - Advanced RAG & Agentic Workflows
+  - Marketing Measurement & Attribution
   - Production ML Systems
 
 hobbies:
@@ -88,7 +88,7 @@ hobbies:
 
 <div align="center">
 
-### AI / ML / Data Science
+### GenAI / ML / Data Science
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -97,10 +97,18 @@ hobbies:
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace" />
+  <img src="https://img.shields.io/badge/FAISS-6C63FF?style=for-the-badge&logo=meta&logoColor=white" alt="FAISS" />
+</p>
+
+### Marketing Analytics
+
+<p>
+  <img src="https://img.shields.io/badge/Google_Tag_Manager-246FDB?style=for-the-badge&logo=googletagmanager&logoColor=white" alt="GTM" />
+  <img src="https://img.shields.io/badge/Google_Analytics_4-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="GA4" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Statistical_Modeling-6C63FF?style=for-the-badge&logo=numpy&logoColor=white" alt="Statistical Modeling" />
 </p>
 
 ### Web Development
@@ -113,7 +121,6 @@ hobbies:
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js" />
 </p>
 
 ### Tools & Platforms
@@ -122,7 +129,6 @@ hobbies:
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="GitHub Pages" />
@@ -175,20 +181,20 @@ hobbies:
 
 <div align="center">
 
-<a href="https://github.com/aviral022/Labhyash_Assesment">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=aviral022&repo=Labhyash_Assesment&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=6c63ff&text_color=c9d1d9" />
+<a href="https://github.com/aviral022/UPI-KYC-Scams-and-Fraud-Detection">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=aviral022&repo=UPI-KYC-Scams-and-Fraud-Detection&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=6c63ff&text_color=c9d1d9" />
 </a>
 <a href="https://github.com/aviral022/Attrition-Rate-Prediction-in-Telecommunication">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=aviral022&repo=Attrition-Rate-Prediction-in-Telecommunication&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=6c63ff&text_color=c9d1d9" />
 </a>
-<a href="https://github.com/aviral022/UPI-KYC-Scams-and-Fraud-Detection">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=aviral022&repo=UPI-KYC-Scams-and-Fraud-Detection&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=6c63ff&text_color=c9d1d9" />
+<a href="https://github.com/aviral022/AI-MedBot">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=aviral022&repo=AI-MedBot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=6c63ff&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/aviral022/Labhyash_Assesment">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=aviral022&repo=Labhyash_Assesment&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=6c63ff&text_color=c9d1d9" />
 </a>
 <a href="https://github.com/aviral022/Portfolio">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=aviral022&repo=Portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=6c63ff&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/aviral022/AI-MedBot">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=aviral022&repo=AI-MedBot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=6c63ff&text_color=c9d1d9" />
 </a>
 <a href="https://github.com/aviral022/Face-Recognition">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=aviral022&repo=Face-Recognition&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=6c63ff&text_color=c9d1d9" />
@@ -276,7 +282,7 @@ After adding this workflow, run it manually once from the **Actions** tab. The s
 
 ## Let's Connect
 
-<a href="https://www.linkedin.com/in/aviral-dubey-198600262" target="_blank">
+<a href="https://www.linkedin.com/in/aviral-dubey-ml-engineer" target="_blank">
   <img src="https://img.shields.io/badge/-Aviral_Dubey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:aviraldubey20@gmail.com">
